@@ -1,0 +1,18 @@
+host: https://s.4a.hk/
+listen: 127.0.0.1:33212
+token:
+  - testtoken1
+  - testtoken2
+redis:
+    enable: true
+    dbhost: 127.0.0.1
+    dbport: 6379
+    dbpass: 
+    dbname: 0
+mysql:
+    enable: true
+    dbHost: 127.0.0.1
+    dbPort: 3306
+    dbUser: short
+    dbPass: f2PBXVIrtrCUcLqz
+    dbName: short
